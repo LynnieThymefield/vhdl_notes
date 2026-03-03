@@ -73,4 +73,12 @@ A test bench has no input or output ports.\
 ### Example
 The inputs to the circuit are declared with ```reg```,\
 the set of statements to be executed are enclosed by ```begin ... end```,\
-the test is terminated by ```$finish```.
+the test is terminated by system task ```$finish```\ 
+Other system functions include
+```
+$display // Shows one-time value of variables/strings
+$write // same as display, without \n
+$monitor // display variables whenever a value changes
+$time // displays simulation time 
+$finish // terminates simulation
+```
