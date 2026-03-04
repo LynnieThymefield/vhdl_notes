@@ -30,5 +30,5 @@ I use Visual Studio Code as my text editor for VHDL. You may use any text editor
 WaveTrace by wavetrace. This is essential (unless you have time to mess around) as it enables you to directly view waveforms from vcd files. \
 VerlogHDL/SystemVerilog/Bluespec SystemVerilog by Masahiro Hiramori.\
 Verilog HDL by leafvmaple (seems redundant, but i found it easier with the green compile button). \
-Verilog_Testbench by Truecrab. \
+Verilog_Testbench by Truecrab. 
 
