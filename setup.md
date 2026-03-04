@@ -27,7 +27,7 @@ meson setup build && cd build && meson install
 ## Text Editor
 I use Visual Studio Code as my text editor for VHDL. You may use any text editor you like, however, VSCode is more convienent for analysis.
 ### Plugins
-WaveTrace by wavetrace. This is essential (unless you have time to mess around) as it enables you to directly view waveforms from vcd files. \
+WaveTrace by wavetrace. This is essential (unless you have time to mess around) as it enables you to directly view waveforms from vcd files within VSCode. \
 VerlogHDL/SystemVerilog/Bluespec SystemVerilog by Masahiro Hiramori.\
 Verilog HDL by leafvmaple (seems redundant, but i found it easier with the green compile button). \
 Verilog_Testbench by Truecrab. 
